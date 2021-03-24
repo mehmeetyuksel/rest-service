@@ -1,6 +1,0 @@
-com/example/restservice/greetingscontroller.java
- com.example.restservice.greetingscontroller
-com/example/restservice/greetings.java
- com.example.restservice.greetings
-com/example/restservice/RestServiceApplication.java
- com.example.restservice.RestServiceApplication
